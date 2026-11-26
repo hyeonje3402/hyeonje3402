@@ -21,7 +21,7 @@ AI 에이전트 · AX 업무 자동화 · 백엔드 및 풀스택 서비스 · �
 
 - [AI Talent Matcher Pro](https://github.com/hyeonje3402/hr-matching-agent-poc) — 이력서·채용 공고 매칭과 다중 AI 면접 연습을 연결한 개인 PoC.
 - [HireSync](https://github.com/hyeonje3402/job-info-service) — 채용 공고의 PDF·URL 정보를 분석하고 관리하는 Spring Boot 서비스.
-- [ZipView](https://github.com/hyeonje3402/zipview-real-estate-platform) — 공공 실거래 검색과 AI 상담을 제공하는 부동산 웹 플랫폼. 지속 개선 중.
+- [ZipView](https://github.com/hyeonje3402/zipview-real-estate-platform) — 공공 실거래 검색과 AI 상담을 제공하는 부동산 웹 플랫폼. [공개 서비스 체험](https://zip-view-rose.vercel.app/) · Render 무료 서버는 유휴 후 첫 접속이 지연될 수 있습니다. 2026-11-26 확인: DB 596,572건, API 테스트 15개 통과. 실제 확인: 거래 조회·검색·차트·지도·백엔드 상태. 미검증: AI 상담, B2B 관리자 기능, Playwright E2E.
 - [CCTV Crowd Analysis](https://github.com/hyeonje3402/cctv-crowd-analysis) — CSRNet 인원 밀도 추정과 YOLO 사람 탐지를 활용한 개인 영상 분석 도구.
 - [교내 기자재·분실물 비전 모니터링](https://github.com/hyeonje3402/Object-Recognition-Vision) — ROI·객체 추적 기반 실습실 영상 모니터링 프로젝트.
 - [하모예](https://github.com/JunHwiK1m/HMY_CapstoneDesign) — 팀 캡스톤에서 AI 분석, CSRNet 적용 제안과 합성 영상 시각화를 담당했습니다. 실제 CCTV 인원 정확도는 검증하지 않았습니다.
